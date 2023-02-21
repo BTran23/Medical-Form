@@ -1,0 +1,16 @@
+body{
+    background-color:darkgrey
+}
+
+button{
+
+color:red
+}
+
+.required-color{
+    color:crimson
+}
+
+.hide{
+    display: none;
+}
